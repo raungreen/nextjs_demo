@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node server.js",
+
     "build": "next build",
-    "now-build": "next build",
-    "start": "next start -p $PORT"
+    "now-build": "next build"
   },
   "keywords": [],
   "author": "",
