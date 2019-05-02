@@ -2,6 +2,9 @@ import React from 'react'
 import MyLayout from '../components/MyLayout'
 import marked from 'marked'
 import Highlight from 'react-highlight'
+// import dynamic from 'next/dynamic'
+
+// const Highlight = dynamic(import('react-highlight'))
 
 marked.setOptions({
   gfm: true,
